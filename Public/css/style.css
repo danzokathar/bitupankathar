@@ -274,9 +274,9 @@ body {
     margin: 0 auto;
     border-radius: 50%;
     padding: 5px;
-    background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+    /* background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
     box-shadow: 0 0 30px rgba(0, 114, 255, 0.2);
-    transition: transform 0.5s ease, box-shadow 0.5s ease;
+    transition: transform 0.5s ease, box-shadow 0.5s ease; */
 }
 
 .hero-image img {
@@ -284,7 +284,7 @@ body {
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    background-color: var(--bg-color);
+    /* background-color: var(--bg-color); */
 }
 
 /* Stunning Hover Effect for Image */
