@@ -270,9 +270,9 @@ body {
 .hero-image {
     position: relative;
     width: 320px;
-    height: 400px;
+    height: 320px;
     margin: 0 auto;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     padding: 5px;
     /* background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
     box-shadow: 0 0 30px rgba(0, 114, 255, 0.2);
